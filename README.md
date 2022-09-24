@@ -3,7 +3,7 @@
 
 Hello Microverse
 
-This project is created to master git flows.
+This project is created to master the professional- repo-rules.
 
 
 ## Built With
@@ -37,9 +37,9 @@ Download the code or clone the repo to your local PC.
 
 ## Author
 
-- GitHub: [@fmshot2](https://github.com/fmshot2)
-- Twitter: [@_fmshot](https://twitter.com/@_fmshot)
-- LinkedIn: [femi-shotola/](https://www.linkedin.com/in/femi-shotola/)
+- GitHub: [@lolashot](https://github.com/lolashot)
+- Twitter: [@lola_wealthy](https://twitter.com/@lola_wealthy)
+- LinkedIn: [shotola-ololade-946b95241/](https://www.linkedin.com/in/shotola-ololade-946b95241/)
 
 
 ## 🤝 Contributing
@@ -51,7 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Thumbs up to Microverse
+Shout out to Microverse Technologies
 
 ## 📝 License
 
